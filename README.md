@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 MCA Graduate (University of Calicut)
+- 🎓 MSc Computer Science (University of Calicut)
 - 🤖 Currently learning AI-driven development  
 - 💡 Interested in Python, AI, and Web Development  
 - 🔥 Building scalable and real-time applications  
