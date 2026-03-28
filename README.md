@@ -30,7 +30,7 @@
 - 📊 Real-time monitoring & alerts  
 - 🛠️ Tech: Python, Flask, MySQL, OpenCV  
 
-🔗 https://github.com/rifakm2000/-Artificial-Intelligence-based-Online-Exam-Proctoring-System  
+🔗 https://github.com/fatima-rifa/-Artificial-Intelligence-based-Online-Exam-Proctoring-System  
 
 ---
 
@@ -53,7 +53,7 @@
 
 ## 🌐 Connect with Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/rifa071/  
-- 💻 GitHub: https://github.com/rifakm2000  
+- 💻 GitHub: https://github.com/fatima-rifa  
 - 📧 Email: fathimarifakm09@gmail.com  
 
 ---
