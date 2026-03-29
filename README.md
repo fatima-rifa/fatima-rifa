@@ -42,12 +42,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Rifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifakm2000&show_icons=true&theme=tokyonight)
+![Rifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatima-rifa&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=rifakm2000&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=fatima-rifa&theme=tokyonight)
 
 ---
 
